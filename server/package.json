@@ -18,5 +18,17 @@
   "bugs": {
     "url": "https://github.com/devSamsane/bullesdesoiES6/issues"
   },
-  "homepage": "https://github.com/devSamsane/bullesdesoiES6#readme"
+  "homepage": "https://github.com/devSamsane/bullesdesoiES6#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-refresh": "^1.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-util": "^3.0.8",
+    "gulp-rename": "^1.2.2",
+    "gulp-eslint": "^4.0.0"
+  }
 }
